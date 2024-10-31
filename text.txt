@@ -1,1 +1,3 @@
 city bangalore
+
+this is update txt from text file
